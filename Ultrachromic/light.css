@@ -11,6 +11,10 @@
   background-color: rgba(98, 98, 98, 0.7) !important;
 }
 
+.cardBox .cardScalable .cardOverlayButton:hover {
+  background-color: rgba(98, 98, 98, 0.55) !important;
+}
+
 /*Colors for title_2*/
 .layout-desktop .detailRibbon {
   background: rgba(255,255,255,.9) !important;
