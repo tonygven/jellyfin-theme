@@ -4,7 +4,7 @@
 :root {--selection: var(--accent);}
 
 .layout-mobile .detailRibbon {
-  background: transparent !important;
+	background: transparent !important;
 }
 
 .cardOverlayFab-primary {
@@ -20,7 +20,11 @@
 }
 
 .layout-desktop .detailRibbon {
-	background: rgba(250, 245, 255, 0.9) !important;
+	background: rgba(200, 200, 200, 0.9) !important;
+}
+
+.headerTop .headerButton .material-icons {
+  color: #fff !important;
 }
 
 /*Colors for title_2*/
