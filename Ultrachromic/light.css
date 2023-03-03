@@ -4,7 +4,11 @@
 :root {--selection: var(--accent);}
 
 .cardOverlayFab-primary {
-  background-color: rgba(165, 165, 165, 0.7) !important;
+  background-color: rgba(98, 98, 98, 0.7) !important;
+}
+
+.cardOverlayButtonIcon {
+  background-color: rgba(98, 98, 98, 0.7)
 }
 
 /*Colors for title_2*/
