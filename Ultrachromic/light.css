@@ -3,10 +3,6 @@
 :root {--indicator: var(--accent);}
 :root {--selection: var(--accent);}
 
-.cardOverlayFab-primary {
-  background-color: rgba(98, 98, 98, 0.7) !important;
-}
-
 .cardBox .cardScalable .cardOverlayButtonIcon {
   background-color: rgba(98, 98, 98, 0.7) !important;
 }
