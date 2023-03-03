@@ -3,8 +3,8 @@
 :root {--indicator: var(--accent);}
 :root {--selection: var(--accent);}
 
-.detailRibbon {
-	background: transparent !important;
+.layout-mobile .detailRibbon {
+  background: transparent !important;
 }
 
 .cardOverlayFab-primary {
