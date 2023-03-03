@@ -4,7 +4,7 @@
 :root {--selection: var(--accent);}
 
 .cardOverlayFab-primary {
-	background-color: rgba(98, 98, 98, 0.7) !important;
+	background-color: transparent;
 }
 
 .cardBox .cardScalable .cardOverlayButtonIcon {
