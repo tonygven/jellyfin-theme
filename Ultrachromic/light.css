@@ -3,6 +3,10 @@
 :root {--indicator: var(--accent);}
 :root {--selection: var(--accent);}
 
+.detailRibbon {
+	background: transparent !important;
+}
+
 .cardOverlayFab-primary {
 	background-color: transparent;
 }
