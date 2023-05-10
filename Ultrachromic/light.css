@@ -8,7 +8,7 @@
 }
 
 .padded-right-withalphapicker {
-	padding-right: 0 !important;
+	padding-right: max(env(safe-area-inset-left),3.3%) !important;
 }
 
 .layout-mobile .detailRibbon {
