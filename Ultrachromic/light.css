@@ -4,7 +4,7 @@
 :root {--selection: var(--accent);}
 
 .alphaPickerRow-vertical {
-	display: none;
+	display: none !important;
 }
 
 .layout-mobile .detailRibbon {
