@@ -7,10 +7,8 @@
 	display: none !important;
 }
 
-@media (min-height: 31.25em) {
-	.padded-right-withalphapicker
-		padding-right: 0 !important;
-	}
+.padded-right-withalphapicker {
+	padding-right: 0 !important;
 }
 
 .layout-mobile .detailRibbon {
