@@ -3,6 +3,10 @@
 :root {--indicator: var(--accent);}
 :root {--selection: var(--accent);}
 
+.alphaPickerRow-vertical {
+	display: none;
+}
+
 .layout-mobile .detailRibbon {
 	background: transparent !important;
 }
