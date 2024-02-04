@@ -3,6 +3,10 @@
 :root {--indicator: var(--accent);}
 :root {--selection: var(--accent);}
 
+.collapseContent {
+	background-color: #d8d8d8 !important;
+}
+
 .alphaPickerRow-vertical {
 	display: none !important;
 }
